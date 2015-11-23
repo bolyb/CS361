@@ -9,8 +9,8 @@ corvallis = 97330
 
 print "Hello user, This program is built to help you find a location to recieve therapy based off your location."
 
-area = int(input("Enter your area code: "))
-if area == corvallis:
+area = int(input("Enter your zip code: "))
+if zip == corvallis:
 	print s
 	
 else:
